@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.0)
 
 # Set Project Name
-project (simple_cmake)
+project (basic_cmake)
 
 # List of source files
 set(SRC_FILES
